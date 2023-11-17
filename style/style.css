@@ -129,6 +129,18 @@ body {
     text-align: justify;
 }
 
+.apresentacao-conteudo-texto {
+    font-size: 24px;
+
+    /* Define a família de fontes como 'Montserrat' com fallback para sans-serif */
+    font-family: 'Montserrat', sans-serif;
+
+    /* Alinha o texto justificado */
+    text-align: justify;
+
+    margin-bottom: 25px;
+}
+
 
 /* Iniciando estilização da ancora1 (botao1) */
 
